@@ -1,5 +1,8 @@
 # About Me:
-**French Computer Science Student**
+**Hi !**
+<br>
+**Currently a computer science student at IUT Sénart-Fontainebleau :fr: ,<br> I am passionate about the world of radio but also about cyber security.**
+<br><br>**I participate in many CTFs, if you are interested in participating with me contact me!**
 
 
 ## 🌐 Socials:
