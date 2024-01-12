@@ -1,9 +1,11 @@
 # Welcome !
+<br>
+<img src="https://media.tenor.com/wiMyvo8ZFN0AAAAj/pinguim-penguin.gif">
+
 **Currently a computer science student at UTEC - Fontainebleau - Avon :fr: ,<br> I am passionate about the world of radio but also about cyber security.**
 <br><br>**I participate in many Capture The Flags in jeopardy and Offensive style.**
 
 <a href="https://root-me.org/mall0c"><img src="https://www.root-me.org/IMG/logo/siteon0.svg?1637496509" width="100" height="100"></a> 
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-rq/) 
