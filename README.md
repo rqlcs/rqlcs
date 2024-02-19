@@ -2,7 +2,7 @@
 <center>
 <img src="https://clipart-library.com/images_k/funny-transparent-gifs/funny-transparent-gifs-21.png" width="300" height="250">
 </center>
-I'm currently a computer science student at UTEC - Fontainebleau - Avon :fr:, passionate about radio and cybersecurity. I actively participate in Jeopardy and Offensive-style Capture The Flags (CTFs).
+I'm currently a computer science student at UTEC - Fontainebleau - Avon :fr:, passionate about radio and networking&cybersecurity. I actively participate in Jeopardy and Offensive-style Capture The Flags (CTFs).
 
 ## 🌐 Socials:
 - [LinkedIn](https://www.linkedin.com/in/lucas-rq/)
