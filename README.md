@@ -2,19 +2,8 @@
 <center>
 <img src="https://clipart-library.com/images_k/funny-transparent-gifs/funny-transparent-gifs-21.png" width="300" height="250">
 </center>
-I'm currently a computer science student :fr:, passionate about radio and networking&cybersecurity. I actively participate in Jeopardy and Offensive-style Capture The Flags (CTFs).
+I'm currently a computer science student :fr:, passionate about radio & networking/cybersecurity. I actively participate in Jeopardy and Offensive-style Capture The Flags (CTFs).
 
-## 🌐 Socials:
-- [LinkedIn](https://www.linkedin.com/in/lucas-rq/)
-
-## 🛠️ Languages and Tools:
-- Linux
-- Bash
-- Python
-- C
-- Apache
-- Wireshark
-- Pentesting Tools
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
